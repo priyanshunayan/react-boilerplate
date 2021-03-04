@@ -26,3 +26,10 @@ This boilerplate uses:
 ## To format (In case of trying new editors out)
 
 <code> npm run format </code>
+
+<hr />
+
+### TODO
+
+- Tests defaults
+- One Click Deploy
