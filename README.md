@@ -1,10 +1,11 @@
 # React Boilerplate
 
-More often than not, I try to set up new react projects which have more or less the same functionality. For my usecases create-react-app seems like a overkill and it kind of abstracts all the tools. I wanted to learn the underlying tools too. So, I created this template repository for my future projects. 
+More often than not, I try to set up new react projects which have more or less the same functionality. For my usecases create-react-app seems like a overkill and it kind of abstracts all the tools. I wanted to learn the underlying tools too. So, I created this template repository for my future projects.
 
 This boilerplate uses:
+
 1. Prettier - For formatting
-2. Eslint - which extends react-recommended best practices and google style guide
+2. Eslint - which extends react-recommended best practices
 3. Parcel - For bundling and live reloading
 4. React - as a UI library
 5. React-DOM - to compliment react
